@@ -1,5 +1,6 @@
 # Title
 ## MindMate Website
+Publicly Hosted : https://mindmatesite.vercel.app/
 
 # Description 
 ## Suitable Study Material for all the students. 🚀
@@ -19,7 +20,7 @@ Lottie (for animations) - https://lottiefiles.com/ <br/>
 
 > Note: In order to run the **frontend**, the **backend** should be running.
 
-The backend is hosted at : https://api-weld-one.vercel.app/
+The backend is hosted at : https://api-weld-one.vercel.app/ <br />
 All the routes information can be found on the api repo : https://github.com/anish-sanju-jess/api
 
 2. Change Directory
@@ -38,3 +39,4 @@ yarn dev
 ```
 
 Website is hosted at : http://localhost:3000
+

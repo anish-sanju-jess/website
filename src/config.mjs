@@ -2,7 +2,7 @@ import defaultImage from './assets/images/default.png';
 
 const CONFIG = {
   name: 'MindMate',
-  origin: 'https://mindmate.vercel.app',
+  origin: 'https://mindmatesite.vercel.app/',
   basePathname: '/',
   trailingSlash: false,
   title: 'MindMate — A students community',
