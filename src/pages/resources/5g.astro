@@ -2,11 +2,13 @@
 import Layout from '~/layouts/PageLayout.astro';
 import Page from '~/components/Page.astro';
 
+const key  = '5g';
+
 const meta = {
-  title: 'Saas Landing Page',
+  title: `🧠 MindMate ${key}`,
 };
 ---
 
 <Layout {meta}>
-  <Page key={'5g'} />
+  <Page key={key} />
 </Layout>

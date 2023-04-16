@@ -1,14 +1,14 @@
 ---
 import Layout from '~/layouts/PageLayout.astro';
-import Header from '~/components/widgets/Header.astro';
 import Page from '~/components/Page.astro';
-import { headerData } from '~/data';
+
+const key  = 'blockchain';
 
 const meta = {
-  title: 'Saas Landing Page',
+  title: `🧠 MindMate ${key}`,
 };
 ---
 
 <Layout {meta}>
-  <Page key={'blockchain'} />
+  <Page key={key} />
 </Layout>
