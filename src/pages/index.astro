@@ -1,0 +1,62 @@
+---
+import { fetch } from 'undici';
+import { SITE } from '~/config.mjs';
+import Layout from '~/layouts/PageLayout.astro';
+import Hero from '~/components/widgets/Hero2.astro';
+import Features2 from '~/components/widgets/Features2.astro';
+import hero from '~/lottie/hero.lottie';
+
+const quote = await fetch('https://api-weld-one.vercel.app').then(res => res.text());
+const meta = {
+  title: SITE.title,
+  description: SITE.description,
+  dontUseTitleTemplate: true,
+};
+---
+
+<Layout {meta}>
+  <Hero
+    hero={hero}>
+    <Fragment slot="title">
+      Supporting students every
+      <span class="text-accent highlight">step </span> of the way.
+    </Fragment>
+    <Fragment slot="subtitle">
+      <span class="hidden sm:inline">
+        <span class="font-semibold">{quote}</span>
+      </span>
+    </Fragment>
+  </Hero>
+  <Features2
+    title="Our Features"
+    subtitle="Features we offer to our users."
+    items={[
+      {
+        title: 'Empowering',
+        description:
+          'Your One-Stop Destination for Mental Health and Tech News.',
+        icon: 'flat-color-icons:template',
+      },
+      {
+        title: 'Intersection',
+        description:
+          'Stay Informed with Our Latest Tech News and Mental Health Resources.',
+        icon: 'flat-color-icons:gallery',
+      },
+      {
+        title: 'Navigating',
+        description:
+          'Navigating Your Academic Journey Has Never Been Easier, Our Website is Your One-Stop Resource.',
+        icon: 'flat-color-icons:todo-list',
+      }
+    ]}
+  />
+    <Fragment slot="title">
+      Astro + <br class="block sm:hidden" /><span class="sm:whitespace-nowrap">Tailwind CSS</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      Be very surprised by these huge fake numbers you are seeing on this page. <br class="hidden md:inline" />Don't
+      waste more time! :P
+    </Fragment>
+</Layout>

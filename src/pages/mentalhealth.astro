@@ -1,0 +1,30 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import Content from '~/components/widgets/Content.astro';
+import Hero2 from '~/components/widgets/Hero2.astro';
+import lottie from '~/lottie/mentalhealth.lottie';
+import { map } from 'astro/zod';
+const res = await fetch('https://api-weld-one.vercel.app/mentalhealth').then(res => res.json());
+const data = Object.values(res).map(item => {
+  return {
+    title: item.problem,
+    description: item.solution,
+  }
+})
+---
+<Layout>
+<Hero2 hero={lottie}>
+  <Fragment slot="title">Mental Health</Fragment>
+  <Fragment slot="subtitle">
+    <span class="hidden sm:inline">
+      <span class="font-semibold">
+        Mental health refers to our overall emotional and psychological well-being. It includes our ability to handle stress, maintain healthy relationships, and cope with life's challenges. Just like physical health, mental health is essential to our overall well-being and should be taken care of on a regular basis.
+      </span>
+    </span>
+  </Fragment>
+</Hero2>
+<Content
+  items={data}
+  isReversed id="https://youtu.be/BpzVvUGfJeA">
+</Content>
+</Layout>

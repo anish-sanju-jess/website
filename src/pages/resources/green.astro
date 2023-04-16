@@ -1,0 +1,14 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import Header from '~/components/widgets/Header.astro';
+import Page from '~/components/Page.astro';
+import { headerData } from '~/data';
+
+const meta = {
+  title: 'Saas Landing Page',
+};
+---
+
+<Layout {meta}>
+  <Page key={'green'} />
+</Layout>

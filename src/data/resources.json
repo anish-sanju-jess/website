@@ -1,0 +1,141 @@
+{
+  "aiml": {
+    "name": "Artificial Intelligence (AI) and Machine Learning (ML)",
+    "intro": "AI (Artificial Intelligence) and ML (Machine Learning) are two interrelated fields that are concerned with creating intelligent machines that can mimic human cognitive abilities. AI is the broader field that encompasses all aspects of creating intelligent systems, while ML is a subfield of AI that focuses on developing algorithms that allow machines to learn from data and improve their performance over time.",
+    "link": "https://youtu.be/PeMlggyqz0Y",
+    "description": "AI/ML is changing the way we interact with technology and the world around us, and it has the potential to revolutionize various industries, from healthcare and transportation to finance and manufacturing. By leveraging the power of AI/ML, we can automate tedious and time-consuming tasks, improve decision-making, and discover new insights and solutions that were previously impossible. As AI/ML continues to advance, we can expect to see more innovative applications and solutions that will transform our daily lives.",
+    "externals": {
+      "source1": "https://www.goseeko.com/studymaterial/savitribai-phule-pune-university-maharashtra/engineering/mechanical-engineering/third-year/sem-2/artificial-intelligence-machine-learning",
+      "source2": "https://developers.google.com/machine-learning/crash-course",
+      "source3": "https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524",
+      "source4": "https://www.google.com/aclk?sa=l&ai=DChcSEwiK-qKD66v-AhW7Vn0KHXohASwYABABGgJzZg&sig=AOD64_3iMiDcHjZhN0bq5mgzpp8G_l-Hog&q&adurl&ved=2ahUKEwjr452D66v-AhVYSGwGHaxbARgQ0Qx6BAgJEAE"
+    },
+    "thumbnail": "https://dtmvamahs40ux.cloudfront.net/gl-academy/course/course-682-AIML.jpg"
+  },
+
+  "blockchain": {
+    "name": "Blockchain",
+    "intro": "Blockchain is a decentralized, digital ledger technology that is used to securely record transactions across a network of computers. It was initially introduced in 2008 as the underlying technology for the digital currency, Bitcoin. However, the applications of blockchain technology have since expanded beyond just cryptocurrencies.",
+    "link": "https://youtu.be/qF7dkrce-mQ",
+    "description": "The technology has a wide range of potential applications beyond cryptocurrency, such as in supply chain management, voting systems, and digital identity verification. Its ability to facilitate trust and transparency in transactions has made it a popular tool for businesses, governments, and individuals looking to improve efficiency and security in various industries.",
+    "externals": {
+      "source1": "https://developer.ibm.com/technologies/blockchain/",
+      "source2": "https://www.udemy.com/course/blockchain-and-deep-learning-future-of-ai/",
+      "source3": "https://www.udemy.com/course/introduction-to-cryptocurrencies/",
+      "source4": "https://www.udemy.com/course/understanding-blockchain-technology/"
+    },
+    "thumbnail": "https://wtop.com/wp-content/uploads/2018/02/ThinkstockPhotos-865521604.jpg"
+  },
+
+  "iot": {
+    "name": "IoT",
+    "intro": "The Internet of Things (IoT) is a term used to describe the network of physical devices, vehicles, home appliances, and other objects that are connected to the internet and can communicate with each other. These devices are embedded with sensors, software, and other technologies that allow them to collect and exchange data.",
+    "link": "https://www.youtube.com/watch?v=LlhmzVL5bm8&pp=ygUMZmlyZXNoaXAgSW90",
+    "description": "IoT enables businesses and individuals to gather insights and make data-driven decisions in real-time, leading to improved efficiency, productivity, and cost savings. However, it also poses significant challenges in terms of data privacy, security, and management. As the number of connected devices continues to grow, the development of standards and best practices for IoT is becoming increasingly important.",
+    "externals": {
+      "source1": "https://geekflare-com.webpkgcache.com/doc/-/s/geekflare.com/internet-of-things-iot-learning-resources/",
+      "source2": "https://www.simplilearn.com/learn-iot-basics-skillup",
+      "source3": "https://www.google.com/aclk?sa=l&ai=DChcSEwi7k7OM7Kv-AhX2gUsFHScTCRcYABABGgJzZg&sig=AOD64_2PJISS_E7EqyphzcsHMQYMR2rm6A&q&adurl&ved=2ahUKEwj3k6iM7Kv-AhWOSWwGHWUODc4Q0Qx6BAgIEAE",
+      "source4": "https://www.techtarget.com/iotagenda/definition/Internet-of-Things-IoT"
+    },
+    "thumbnail": "https://www.techavy.com/wp-content/uploads/2019/11/74.jpg"
+  },
+
+  "cloud": {
+    "name": "Cloud Computing",
+    "intro": "Cloud computing is a model of delivering on-demand computing resources over the internet, including servers, storage, databases, software, and analytics. This allows users to access powerful computing resources without the need for physical infrastructure, while also offering scalability, flexibility, and cost efficiency.",
+    "link": "https://www.youtube.com/watch?v=27vJg3v9AqM&pp=ygUYY2xvdWQgY29tcHV0aW5nIDItMyBtaW5z",
+    "description": "With cloud, information travels rapidly in both directions, across computing systems that, with attributes like virtualization, scaling up or down to handle bigger workloads, or automated security patching across thousands of machines, are far more flexible. This will likely mean a more flexible work structure as well, in the interest of products and services that ideally can be adjusted to anticipate customer needs. Key to the new system are rapid data collection and analysis, followed by over the air changes to product software.",
+    "externals": {
+      "source1": "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing#:~:text=Simply%20put%2C%20cloud%20computing%20is,resources%2C%20and%20economies%20of%20scale",
+      "source2": "https://www.investopedia.com/terms/c/cloud-computing.asp",
+      "source3": "https://www.google.com/aclk?sa=l&ai=DChcSEwjA6KjE7Kv-AhWRSn0KHUt8CNsYABAAGgJzZg&sig=AOD64_32Yehnrnh_e-e_VPwl5ulZ5AIaig&q&adurl&ved=2ahUKEwjn4qLE7Kv-AhVKW2wGHS2xB9IQ0Qx6BAgIEAE",
+      "source4": "https://www.mygreatlearning.com/cloud-computing/free-courses"
+    },
+    "thumbnail": "https://www.neojobmeeting.com/wp-content/uploads/2020/03/Untitled-3.jpg"
+  },
+
+  "cyber": {
+    "name": "Cybersecurity",
+    "intro": "Cybersecurity refers to the practice of protecting computer systems, networks, and sensitive information from unauthorized access, theft, damage, or other types of cyber threats. With the increasing reliance on technology and the growth of online communication, cybersecurity has become a crucial aspect of both personal and business operations.",
+    "link": "https://www.youtube.com/watch?v=tOtzHZiwiRE&pp=ygUVY3liZXJzZWN1cml0eSAyLTMgbWlu",
+    "description": "Cybersecurity threats can come from various sources, including hackers, viruses, malware, phishing attacks, and insider threats. Effective cybersecurity measures typically include network and software security, access controls, encryption, threat detection and response, and employee education and training.",
+    "externals": {
+      "source1": "https://www.simplilearn.com/learn-cyber-security-basics-skillup",
+      "source2": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security",
+      "source3": "https://www.kaspersky.co.in/resource-center/definitions/what-is-cyber-security",
+      "source4": "https://intellipaat.com/blog/what-is-cyber-security/"
+    },
+    "thumbnail": "https://g.foolcdn.com/editorial/images/610632/digital-cybersecurity-concept.jpg"
+  },
+
+  "vrar": {
+    "name": "Virtual Reality (VR) and Augmented Reality (AR)",
+    "intro": "Virtual Reality (VR) and Augmented Reality (AR) are two cutting-edge technologies that are transforming the way we interact with digital information and the world around us.\n\nVR refers to a completely immersive digital environment that simulates a real-world experience, often through the use of a headset or other specialized hardware. In a VR environment, users can move around and interact with digital objects as if they were real.\n\nAR, on the other hand, blends digital information with the user's real-world environment. It overlays digital images and information onto the user's view of the real world, typically through the use of a smartphone camera or specialized glasses.",
+    "link": "https://www.youtube.com/watch?v=vz0UUVDt2ps&pp=ygURVlIgYW5kIEFSIDItMyBtaW4%3D",
+    "description": "Both VR and AR have a wide range of applications, from entertainment and gaming to education, healthcare, and industrial design. VR is often used to create realistic training simulations or to enhance immersive gaming experiences, while AR is used in a variety of settings, including advertising, product visualization, and navigation.\n\nAs these technologies continue to advance and become more accessible, we can expect to see even more innovative and exciting applications in the years to come.",
+    "externals": {
+      "source1": "https://edu.gcfglobal.org/en/thenow/understanding-virtual-reality-and-augmented-reality/1/",
+      "source2": "https://sopa.tulane.edu/blog/whats-difference-between-ar-and-vr",
+      "source3": "https://www.google.com/aclk?sa=l&ai=DChcSEwj4v-Xk7av-AhXZdH0KHVS_D2UYABABGgJzZg&sig=AOD64_0-DFv2wV6A4QM1MyWbszYvhQm-yA&q&adurl&ved=2ahUKEwil197k7av-AhVvcGwGHW-LAREQ0Qx6BAgJEAE",
+      "source4": "https://www.coursera.org/googlearvr"
+    },
+    "thumbnail": "https://www.innovatorsmag.com/wp-content/uploads/2017/02/iStock-621252568.jpg"
+  },
+
+  "5g": {
+    "name": "5G",
+    "intro": "5G is the fifth generation of mobile networks, following on from 2G, 3G, and 4G. It represents a significant step forward in mobile technology and promises to deliver faster download and upload speeds, lower latency, and greater capacity than previous generations of mobile networks.",
+    "link": "https://www.youtube.com/watch?v=aTFNx7Us0hE&pp=ygUVNWcgdGVjaG5vbG9neSAyLTMgbWlu",
+    "description": "5G networks are designed to support a wide range of new applications, from connected cars and smart cities to virtual and augmented reality experiences. It is also expected to enable new technologies such as autonomous vehicles and the Internet of Things (IoT).\n\nOne of the key features of 5G is its use of higher frequency radio waves, which offer greater bandwidth and faster data transfer speeds. This will enable users to download and upload large files much more quickly than before.",
+    "externals": {
+      "source1": "https://www.qualcomm.com/5g/what-is-5g",
+      "source2": "https://www.cisco.com/c/en/us/solutions/what-is-5g.html",
+      "source3": "https://www.verizon.com/about/our-company/5g/what-5g",
+      "source4": "https://www.thalesgroup.com/en/markets/digital-identity-and-security/mobile/inspired/5G"
+    },
+    "thumbnail": "https://www.kivodaily.com/wp-content/uploads/2019/09/5G.jpg"
+  },
+
+  "quantum": {
+    "name": "Quantum Computing",
+    "intro": "Quantum computing is an exciting and revolutionary technology that has the potential to transform various fields, including cryptography, chemistry, and machine learning. Unlike classical computing that uses bits that can only be in one of two states (0 or 1), quantum computing leverages the principles of quantum mechanics to use qubits that can exist in multiple states simultaneously. This allows for exponential speedup in certain types of computations, making quantum computers vastly more powerful than classical computers.",
+    "link": "https://www.youtube.com/watch?v=w_-_H9eBte8&pp=ygUZcXVhbnR1bSBjb21wdXRpbmcgMi0zIG1pbg%3D%3D",
+    "description": "One of the key features of quantum computing is the concept of superposition, which allows qubits to exist in a state that is a combination of 0 and 1 at the same time. As a result, a single qubit can perform multiple calculations simultaneously. Moreover, qubits can become entangled, meaning that their states become linked together in such a way that the state of one qubit can affect the state of the other, even when they are physically separated. This allows for the creation of complex algorithms that can solve problems that would be impossible for classical computers.",
+    "externals": {
+      "source1": "https://www.ibm.com/topics/quantum-computing",
+      "source2": "https://www.investopedia.com/terms/q/quantum-computing.asp",
+      "source3": "https://skillsbuild.org/students/course-catalog/quantum-computing",
+      "source4": "https://www.mindluster.com/certificate/330"
+    },
+    "thumbnail": "https://bleuwire.com/wp-content/uploads/2018/12/Quantum-Computing-business.jpg"
+  },
+
+  "green": {
+    "name": "Green technology",
+    "intro": "Green technology is an expanding field that aims to create environmentally sustainable solutions to various problems, including climate change, pollution, and resource depletion. It encompasses a wide range of areas, from renewable energy and energy efficiency to sustainable agriculture and waste reduction.",
+    "link": "https://www.youtube.com/watch?v=Y9MmTUfl3cQ&pp=ygUYd2hhdCBpcyBncmVlbiB0ZWNobm9sb2d5",
+    "description": "The key objective of green technology is to reduce greenhouse gas emissions and promote cleaner energy sources, such as solar and wind power, while improving energy efficiency in buildings, transportation, and industry. Additionally, green technology emphasizes sustainable practices in areas like agriculture, forestry, and water management, which can help reduce pollution and preserve natural resources. By utilizing green technology, we can pave the way to a more sustainable future, minimize our negative impact on the environment, and promote a healthier planet.",
+    "externals": {
+      "source1": "https://builtin.com/greentech",
+      "source2": "https://www.electropages.com/blog/2019/09/what-is-green-technology",
+      "source3": "https://cleartax.in/g/terms/green-tech",
+      "source4": "https://www.ingentaconnect.com/contentone/asp/asl/2017/00000023/00000009/art00102"
+    },
+    "thumbnail": "https://www.greentechnologyinfo.com/wp-content/uploads/2020/10/green1-1024x576.jpg"
+  },
+
+  "robotics": {
+    "name": "Robotics",
+    "intro": "Robotics is a field that designs, builds, and programs robots to perform various tasks autonomously or with human assistance. The goal is to automate dangerous, repetitive, or difficult tasks and create new technologies to improve efficiency, accuracy, and safety in various industries, such as manufacturing, logistics, healthcare, and exploration.",
+    "link": "https://www.youtube.com/watch?v=htjRUL3neMg&pp=ygUQUm9ib3RpY3MgMi0zIG1pbg%3D%3D",
+    "description": "The use of robotics has already brought about significant changes in various industries and is expected to have an even greater impact in the future. As the field continues to advance, we can expect to see new and improved robots that are better equipped to perform complex tasks, interact with humans more seamlessly, and provide solutions to previously unsolvable problems. The possibilities of robotics are endless, and we are only scratching the surface of what this technology can achieve.",
+    "externals": {
+      "source1": "https://www.edx.org/learn/robotics",
+      "source2": "https://builtin.com/robotics",
+      "source3": "https://www.britannica.com/technology/robot-technology",
+      "source4": "https://sciencetrek.org/sciencetrek/topics/robots/facts.cfm"
+    },
+    "thumbnail": "https://static.wixstatic.com/media/a0442d_1658b3cf5be44cfda5f4f3fbe5012bdf~mv2.png/v1/fit/w_1000%2Ch_798%2Cal_c/file.png"
+  }
+}
